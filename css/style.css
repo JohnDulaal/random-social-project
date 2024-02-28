@@ -1,0 +1,87 @@
+body{
+    background-image: url(images2/nepal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.nepal{
+    border: 3px solid purple;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    width: 650px;
+    background-color: white;
+}
+
+body{
+    background-image: url(../images/123.jpeg);
+    background-position: center;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+
+
+    /* Style for the navigation bar */
+    .navbar {
+        background-color: #3498db;
+        color: black;
+      }
+      
+      .navbar-brand {
+        display: flex;
+        align-items: center;
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+      
+      .navbar-brand img {
+        margin-right: 10px;
+        height: 60px;
+      }
+      
+      .navbar-nav {
+        text-align: center;
+      }
+      
+      .nav-link {
+        color: black;
+        margin: 0 15px;
+        text-decoration: none;
+        transition: color 0.3s;
+        font-size: 24px; 
+      }
+      
+      .nav-link:hover {
+        color: #ffc107;
+      }
+
+
+  
+
+.jud-intro,
+.exc-intro,
+.brief-intro,
+.leg-intro{
+
+    border: 3px solid purple;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    width:700px;
+    background-color: azure;
+    font-weight: 900;
+    color:rgb(10, 10, 10);
+}
+
+
+.hig{
+  background-color: #ffc107;
+}
